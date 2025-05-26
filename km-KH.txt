@@ -1,1 +1,4 @@
 reading digit number into khmer text language
+document references: https://km-kh.com/project/read-khmer-number/Khmer-Number-System-Officially-Annouce.pdf
+testing input number then convert into Khmer Words:
+https://km-kh.com/project/read-khmer-number/
